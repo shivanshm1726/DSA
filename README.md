@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/shivanshm1726/DSA/tree/master/0645-set-mismatch) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shivanshm1726/DSA/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shivanshm1726/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
