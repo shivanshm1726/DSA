@@ -70,6 +70,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/shivanshm1726/DSA/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/shivanshm1726/DSA/tree/master/1013-fibonacci-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/shivanshm1726/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,4 +91,5 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/shivanshm1726/DSA/tree/master/0861-flipping-an-image) |
+| [2288-count-operations-to-obtain-zero](https://github.com/shivanshm1726/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
