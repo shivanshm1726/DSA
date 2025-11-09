@@ -21,6 +21,7 @@
 | [0645-set-mismatch](https://github.com/shivanshm1726/DSA/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shivanshm1726/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shivanshm1726/DSA/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/shivanshm1726/DSA/tree/master/0861-flipping-an-image) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shivanshm1726/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@
 | ------- |
 | [0136-single-number](https://github.com/shivanshm1726/DSA/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/shivanshm1726/DSA/tree/master/0645-set-mismatch) |
+| [0861-flipping-an-image](https://github.com/shivanshm1726/DSA/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [0189-rotate-array](https://github.com/shivanshm1726/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shivanshm1726/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivanshm1726/DSA/tree/master/0344-reverse-string) |
+| [0861-flipping-an-image](https://github.com/shivanshm1726/DSA/tree/master/0861-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -79,4 +82,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/shivanshm1726/DSA/tree/master/1013-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/shivanshm1726/DSA/tree/master/0861-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/shivanshm1726/DSA/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
