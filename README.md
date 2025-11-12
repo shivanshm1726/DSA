@@ -75,6 +75,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivanshm1726/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/shivanshm1726/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/shivanshm1726/DSA/tree/master/2383-add-two-integers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/shivanshm1726/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
