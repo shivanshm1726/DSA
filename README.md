@@ -67,6 +67,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivanshm1726/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivanshm1726/DSA/tree/master/0344-reverse-string) |
+| [3379-score-of-a-string](https://github.com/shivanshm1726/DSA/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
 | ------- |
