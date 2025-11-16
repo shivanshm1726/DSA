@@ -100,4 +100,8 @@
 | ------- |
 | [0861-flipping-an-image](https://github.com/shivanshm1726/DSA/tree/master/0861-flipping-an-image) |
 | [2288-count-operations-to-obtain-zero](https://github.com/shivanshm1726/DSA/tree/master/2288-count-operations-to-obtain-zero) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/shivanshm1726/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
