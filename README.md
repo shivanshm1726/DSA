@@ -29,6 +29,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivanshm1726/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivanshm1726/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivanshm1726/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shivanshm1726/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shivanshm1726/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivanshm1726/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivanshm1726/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shivanshm1726/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
