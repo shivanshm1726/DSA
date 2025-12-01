@@ -136,4 +136,16 @@
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/shivanshm1726/DSA/tree/master/1590-make-sum-divisible-by-p) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shivanshm1726/DSA/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shivanshm1726/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shivanshm1726/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
