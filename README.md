@@ -79,6 +79,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shivanshm1726/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shivanshm1726/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivanshm1726/DSA/tree/master/0344-reverse-string) |
 | [3379-score-of-a-string](https://github.com/shivanshm1726/DSA/tree/master/3379-score-of-a-string) |
@@ -139,6 +140,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shivanshm1726/DSA/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/shivanshm1726/DSA/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
