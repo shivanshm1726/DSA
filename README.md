@@ -32,6 +32,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shivanshm1726/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivanshm1726/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shivanshm1726/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/shivanshm1726/DSA/tree/master/3668-restore-finishing-order) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0645-set-mismatch](https://github.com/shivanshm1726/DSA/tree/master/0645-set-mismatch) |
 | [1590-make-sum-divisible-by-p](https://github.com/shivanshm1726/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivanshm1726/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3668-restore-finishing-order](https://github.com/shivanshm1726/DSA/tree/master/3668-restore-finishing-order) |
 ## Bit Manipulation
 |  |
 | ------- |
