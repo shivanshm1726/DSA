@@ -1,13 +1,18 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
-        Arrays.sort(nums);
-        int[] ans = new int[2];
-        int k = 0;
-        for(int i = 0; i<nums.length-1; i++){
-            if(nums[i] == nums[i+1]){
-            ans[k] = nums[i];
-            k++;
+        int[] count = new int[101];  
+
+        for(int x : nums){
+            count[x]++;
         }
+
+        int[] ans = new int[2];
+        int idx = 0;
+
+        for(int i = 0; i < 101; i++){
+            if(count[i] == 2){
+                ans[idx++] = i;
+            }
         }
         return ans;
     }
