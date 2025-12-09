@@ -24,6 +24,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shivanshm1726/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shivanshm1726/DSA/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/shivanshm1726/DSA/tree/master/0861-flipping-an-image) |
+| [1512-number-of-good-pairs](https://github.com/shivanshm1726/DSA/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/shivanshm1726/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shivanshm1726/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/shivanshm1726/DSA/tree/master/1929-concatenation-of-array) |
@@ -52,6 +53,7 @@
 | [0141-linked-list-cycle](https://github.com/shivanshm1726/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shivanshm1726/DSA/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/shivanshm1726/DSA/tree/master/0645-set-mismatch) |
+| [1512-number-of-good-pairs](https://github.com/shivanshm1726/DSA/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/shivanshm1726/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivanshm1726/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shivanshm1726/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -94,6 +96,7 @@
 | [0189-rotate-array](https://github.com/shivanshm1726/DSA/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/shivanshm1726/DSA/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivanshm1726/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/shivanshm1726/DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shivanshm1726/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2288-count-operations-to-obtain-zero](https://github.com/shivanshm1726/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/shivanshm1726/DSA/tree/master/2383-add-two-integers) |
@@ -159,4 +162,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shivanshm1726/DSA/tree/master/0225-implement-stack-using-queues) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/shivanshm1726/DSA/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
