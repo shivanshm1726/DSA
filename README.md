@@ -62,6 +62,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivanshm1726/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/shivanshm1726/DSA/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/shivanshm1726/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1796-second-largest-digit-in-a-string](https://github.com/shivanshm1726/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivanshm1726/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shivanshm1726/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/shivanshm1726/DSA/tree/master/3668-restore-finishing-order) |
@@ -99,6 +100,7 @@
 | [0125-valid-palindrome](https://github.com/shivanshm1726/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivanshm1726/DSA/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivanshm1726/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1796-second-largest-digit-in-a-string](https://github.com/shivanshm1726/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [3379-score-of-a-string](https://github.com/shivanshm1726/DSA/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
