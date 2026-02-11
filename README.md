@@ -98,6 +98,7 @@
 | [0020-valid-parentheses](https://github.com/shivanshm1726/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shivanshm1726/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivanshm1726/DSA/tree/master/0344-reverse-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivanshm1726/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3379-score-of-a-string](https://github.com/shivanshm1726/DSA/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
@@ -168,6 +169,7 @@
 | [0020-valid-parentheses](https://github.com/shivanshm1726/DSA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshm1726/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/shivanshm1726/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivanshm1726/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivanshm1726/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Design
 |  |
@@ -185,4 +187,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivanshm1726/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivanshm1726/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
