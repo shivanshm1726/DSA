@@ -23,6 +23,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/shivanshm1726/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/shivanshm1726/DSA/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shivanshm1726/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0735-asteroid-collision](https://github.com/shivanshm1726/DSA/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shivanshm1726/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shivanshm1726/DSA/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/shivanshm1726/DSA/tree/master/0861-flipping-an-image) |
@@ -145,6 +146,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/shivanshm1726/DSA/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/shivanshm1726/DSA/tree/master/0861-flipping-an-image) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivanshm1726/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/shivanshm1726/DSA/tree/master/1929-concatenation-of-array) |
@@ -173,6 +175,7 @@
 | [0020-valid-parentheses](https://github.com/shivanshm1726/DSA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshm1726/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/shivanshm1726/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0735-asteroid-collision](https://github.com/shivanshm1726/DSA/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivanshm1726/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivanshm1726/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shivanshm1726/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
