@@ -22,6 +22,7 @@
 | [0485-max-consecutive-ones](https://github.com/shivanshm1726/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivanshm1726/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/shivanshm1726/DSA/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/shivanshm1726/DSA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shivanshm1726/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/shivanshm1726/DSA/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shivanshm1726/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -51,6 +52,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivanshm1726/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivanshm1726/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivanshm1726/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/shivanshm1726/DSA/tree/master/0704-binary-search) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shivanshm1726/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shivanshm1726/DSA/tree/master/0792-binary-search) |
 ## Hash Table
