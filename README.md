@@ -21,6 +21,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivanshm1726/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/shivanshm1726/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivanshm1726/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0622-design-circular-queue](https://github.com/shivanshm1726/DSA/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/shivanshm1726/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/shivanshm1726/DSA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shivanshm1726/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -168,6 +169,7 @@
 | [0206-reverse-linked-list](https://github.com/shivanshm1726/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shivanshm1726/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shivanshm1726/DSA/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/shivanshm1726/DSA/tree/master/0622-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/shivanshm1726/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
@@ -188,10 +190,12 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shivanshm1726/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/shivanshm1726/DSA/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shivanshm1726/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/shivanshm1726/DSA/tree/master/0622-design-circular-queue) |
 ## Counting
 |  |
 | ------- |
