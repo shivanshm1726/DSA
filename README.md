@@ -181,6 +181,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivanshm1726/DSA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshm1726/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/shivanshm1726/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shivanshm1726/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0735-asteroid-collision](https://github.com/shivanshm1726/DSA/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivanshm1726/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -189,6 +190,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shivanshm1726/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shivanshm1726/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/shivanshm1726/DSA/tree/master/0622-design-circular-queue) |
 ## Queue
