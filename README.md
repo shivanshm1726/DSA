@@ -119,6 +119,7 @@
 | [0242-valid-anagram](https://github.com/shivanshm1726/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivanshm1726/DSA/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivanshm1726/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/shivanshm1726/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shivanshm1726/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shivanshm1726/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3379-score-of-a-string](https://github.com/shivanshm1726/DSA/tree/master/3379-score-of-a-string) |
@@ -196,6 +197,7 @@
 | [0225-implement-stack-using-queues](https://github.com/shivanshm1726/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0735-asteroid-collision](https://github.com/shivanshm1726/DSA/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivanshm1726/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/shivanshm1726/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivanshm1726/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shivanshm1726/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Design
