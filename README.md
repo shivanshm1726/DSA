@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/shivanshm1726/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shivanshm1726/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shivanshm1726/DSA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/shivanshm1726/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivanshm1726/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/shivanshm1726/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivanshm1726/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -66,6 +67,7 @@
 | [0141-linked-list-cycle](https://github.com/shivanshm1726/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shivanshm1726/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivanshm1726/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shivanshm1726/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivanshm1726/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/shivanshm1726/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivanshm1726/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -88,6 +90,7 @@
 | [0049-group-anagrams](https://github.com/shivanshm1726/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shivanshm1726/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivanshm1726/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shivanshm1726/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/shivanshm1726/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivanshm1726/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivanshm1726/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -207,6 +210,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivanshm1726/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/shivanshm1726/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting Sort
 |  |
@@ -217,4 +221,20 @@
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivanshm1726/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shivanshm1726/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivanshm1726/DSA/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivanshm1726/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivanshm1726/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivanshm1726/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
