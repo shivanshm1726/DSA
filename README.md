@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/shivanshm1726/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivanshm1726/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivanshm1726/DSA/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/shivanshm1726/DSA/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivanshm1726/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivanshm1726/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shivanshm1726/DSA/tree/master/0136-single-number) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivanshm1726/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/shivanshm1726/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/shivanshm1726/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shivanshm1726/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivanshm1726/DSA/tree/master/0242-valid-anagram) |
@@ -83,6 +85,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shivanshm1726/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shivanshm1726/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivanshm1726/DSA/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/shivanshm1726/DSA/tree/master/0645-set-mismatch) |
@@ -106,6 +109,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivanshm1726/DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/shivanshm1726/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shivanshm1726/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shivanshm1726/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivanshm1726/DSA/tree/master/0344-reverse-string) |
