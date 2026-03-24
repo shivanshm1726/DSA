@@ -35,6 +35,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shivanshm1726/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shivanshm1726/DSA/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/shivanshm1726/DSA/tree/master/0861-flipping-an-image) |
+| [1095-find-in-mountain-array](https://github.com/shivanshm1726/DSA/tree/master/1095-find-in-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivanshm1726/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivanshm1726/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1512-number-of-good-pairs](https://github.com/shivanshm1726/DSA/tree/master/1512-number-of-good-pairs) |
@@ -62,6 +63,7 @@
 | [0704-binary-search](https://github.com/shivanshm1726/DSA/tree/master/0704-binary-search) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shivanshm1726/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shivanshm1726/DSA/tree/master/0792-binary-search) |
+| [1095-find-in-mountain-array](https://github.com/shivanshm1726/DSA/tree/master/1095-find-in-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -255,4 +257,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivanshm1726/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/shivanshm1726/DSA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
