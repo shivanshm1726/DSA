@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivanshm1726/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivanshm1726/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/shivanshm1726/DSA/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/shivanshm1726/DSA/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivanshm1726/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shivanshm1726/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivanshm1726/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shivanshm1726/DSA/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/shivanshm1726/DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshm1726/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/shivanshm1726/DSA/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/shivanshm1726/DSA/tree/master/1013-fibonacci-number) |
