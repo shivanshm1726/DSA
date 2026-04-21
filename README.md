@@ -153,6 +153,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshm1726/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/shivanshm1726/DSA/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/shivanshm1726/DSA/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/shivanshm1726/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivanshm1726/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/shivanshm1726/DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shivanshm1726/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -171,6 +172,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivanshm1726/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanshm1726/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/shivanshm1726/DSA/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/shivanshm1726/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/shivanshm1726/DSA/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/shivanshm1726/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
 |  |
 | ------- |
