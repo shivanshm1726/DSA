@@ -280,4 +280,16 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/shivanshm1726/DSA/tree/master/1095-find-in-mountain-array) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/shivanshm1726/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/shivanshm1726/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/shivanshm1726/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
