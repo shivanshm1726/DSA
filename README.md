@@ -48,6 +48,7 @@
 | [1929-concatenation-of-array](https://github.com/shivanshm1726/DSA/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shivanshm1726/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivanshm1726/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2418-sort-the-people](https://github.com/shivanshm1726/DSA/tree/master/2418-sort-the-people) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivanshm1726/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shivanshm1726/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shivanshm1726/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -89,6 +90,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/shivanshm1726/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shivanshm1726/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivanshm1726/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2418-sort-the-people](https://github.com/shivanshm1726/DSA/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shivanshm1726/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/shivanshm1726/DSA/tree/master/3668-restore-finishing-order) |
 ## Bit Manipulation
@@ -112,6 +114,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/shivanshm1726/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivanshm1726/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivanshm1726/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2418-sort-the-people](https://github.com/shivanshm1726/DSA/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +147,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/shivanshm1726/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shivanshm1726/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shivanshm1726/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2418-sort-the-people](https://github.com/shivanshm1726/DSA/tree/master/2418-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/shivanshm1726/DSA/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
