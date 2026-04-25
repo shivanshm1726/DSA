@@ -55,6 +55,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivanshm1726/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shivanshm1726/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/shivanshm1726/DSA/tree/master/3668-restore-finishing-order) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/shivanshm1726/DSA/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -312,4 +313,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/shivanshm1726/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivanshm1726/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivanshm1726/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/shivanshm1726/DSA/tree/master/3880-minimum-absolute-difference-between-two-values) |
 <!---LeetCode Topics End-->
