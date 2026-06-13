@@ -55,6 +55,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivanshm1726/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shivanshm1726/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/shivanshm1726/DSA/tree/master/3668-restore-finishing-order) |
+| [3838-weighted-word-mapping](https://github.com/shivanshm1726/DSA/tree/master/3838-weighted-word-mapping) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/shivanshm1726/DSA/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Binary Search
 |  |
@@ -150,6 +151,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shivanshm1726/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2418-sort-the-people](https://github.com/shivanshm1726/DSA/tree/master/2418-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/shivanshm1726/DSA/tree/master/3379-score-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/shivanshm1726/DSA/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/shivanshm1726/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivanshm1726/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/shivanshm1726/DSA/tree/master/2288-count-operations-to-obtain-zero) |
+| [3838-weighted-word-mapping](https://github.com/shivanshm1726/DSA/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
 | ------- |
