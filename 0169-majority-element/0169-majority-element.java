@@ -1,9 +1,9 @@
 class Solution {
-    public int majorityElement(int[] arr) {
-        int candidate = 0;
+    public int majorityElement(int[] nums) {
         int count = 0;
+        int candidate = 0;
 
-        for(int num : arr){
+        for(int num : nums){
             if(count == 0){
                 candidate = num;
             }
