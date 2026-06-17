@@ -35,6 +35,7 @@
 | [0704-binary-search](https://github.com/shivanshm1726/DSA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shivanshm1726/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/shivanshm1726/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shivanshm1726/DSA/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shivanshm1726/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shivanshm1726/DSA/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/shivanshm1726/DSA/tree/master/0861-flipping-an-image) |
@@ -240,6 +241,7 @@
 | [0155-min-stack](https://github.com/shivanshm1726/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shivanshm1726/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0735-asteroid-collision](https://github.com/shivanshm1726/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shivanshm1726/DSA/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivanshm1726/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shivanshm1726/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivanshm1726/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -336,4 +338,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/shivanshm1726/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivanshm1726/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shivanshm1726/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
