@@ -10,6 +10,7 @@ class Solution {
             }else if(arr[cmo] != arr[officer]){
                 officer++;
                 arr[officer] = arr[cmo];
+                cmo++;
                 unique++;
             }
         }
