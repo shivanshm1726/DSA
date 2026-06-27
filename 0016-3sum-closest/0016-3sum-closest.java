@@ -4,8 +4,7 @@ class Solution {
         Arrays.sort(arr);
         int closestSum = arr[0] + arr[1] + arr[2];
 
-        for(int i = 0; i< n; i++){
-            
+       for(int i = 0 ; i < n; i++){
             int l = i + 1;
             int r = n - 1;
 
