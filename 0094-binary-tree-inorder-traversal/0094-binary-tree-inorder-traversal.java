@@ -13,20 +13,18 @@
  *     }
  * }
  */
-import java.util.*;
-
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
-        inorder(root, result);
-        return result;
+        List<Integer> list = new ArrayList<>();
+        inOrder(root, list);
+        return list;
     }
 
-    private void inorder(TreeNode node, List<Integer> result) {
-        if (node == null) return;
+    void inOrder(TreeNode root, List<Integer> list){
+        if(root == null) return;
 
-        inorder(node.left, result);   // Left
-        result.add(node.val);         // Root
-        inorder(node.right, result);  // Right
+        inOrder(root.left, list);
+        list.add(root.val);
+        inOrder(root.right, list);
     }
 }
