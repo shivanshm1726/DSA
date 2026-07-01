@@ -13,20 +13,18 @@
  *     }
  * }
  */
-import java.util.*;
-
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
-        postorder(root, result);
-        return result;
+        List<Integer> list = new ArrayList<>();
+        postOrder(root, list);
+        return list;
     }
 
-    private void postorder(TreeNode node, List<Integer> result) {
-        if (node == null) return;
+    void postOrder(TreeNode root, List<Integer> list){
+        if(root == null) return;
 
-        postorder(node.left, result);   // Left
-        postorder(node.right, result);  // Right
-        result.add(node.val);           // Root
+        postOrder(root.left, list);
+        postOrder(root.right, list);
+        list.add(root.val);
     }
 }
