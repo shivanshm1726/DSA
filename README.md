@@ -152,6 +152,7 @@
 | [0283-move-zeroes](https://github.com/shivanshm1726/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivanshm1726/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shivanshm1726/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/shivanshm1726/DSA/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/shivanshm1726/DSA/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/shivanshm1726/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanshm1726/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -170,6 +171,7 @@
 | [0125-valid-palindrome](https://github.com/shivanshm1726/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shivanshm1726/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivanshm1726/DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/shivanshm1726/DSA/tree/master/0392-is-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivanshm1726/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shivanshm1726/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shivanshm1726/DSA/tree/master/1796-second-largest-digit-in-a-string) |
@@ -206,6 +208,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivanshm1726/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanshm1726/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivanshm1726/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/shivanshm1726/DSA/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/shivanshm1726/DSA/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/shivanshm1726/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
