@@ -49,6 +49,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shivanshm1726/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shivanshm1726/DSA/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/shivanshm1726/DSA/tree/master/0861-flipping-an-image) |
+| [0877-stone-game](https://github.com/shivanshm1726/DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanshm1726/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/shivanshm1726/DSA/tree/master/1095-find-in-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivanshm1726/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -189,6 +190,7 @@
 | [0066-plus-one](https://github.com/shivanshm1726/DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivanshm1726/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/shivanshm1726/DSA/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/shivanshm1726/DSA/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/shivanshm1726/DSA/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/shivanshm1726/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivanshm1726/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -211,6 +213,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanshm1726/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivanshm1726/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/shivanshm1726/DSA/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/shivanshm1726/DSA/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/shivanshm1726/DSA/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/shivanshm1726/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -417,4 +420,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/shivanshm1726/DSA/tree/master/0739-daily-temperatures) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shivanshm1726/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
