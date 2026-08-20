@@ -438,4 +438,8 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shivanshm1726/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/shivanshm1726/DSA/tree/master/0202-happy-number) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/shivanshm1726/DSA/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
