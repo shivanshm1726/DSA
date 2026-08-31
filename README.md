@@ -111,6 +111,7 @@
 | [2418-sort-the-people](https://github.com/shivanshm1726/DSA/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shivanshm1726/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/shivanshm1726/DSA/tree/master/3668-restore-finishing-order) |
+| [3790-smallest-all-ones-multiple](https://github.com/shivanshm1726/DSA/tree/master/3790-smallest-all-ones-multiple) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivanshm1726/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shivanshm1726/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shivanshm1726/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3790-smallest-all-ones-multiple](https://github.com/shivanshm1726/DSA/tree/master/3790-smallest-all-ones-multiple) |
 ## Dynamic Programming
 |  |
 | ------- |
