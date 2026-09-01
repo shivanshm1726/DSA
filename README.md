@@ -415,6 +415,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/shivanshm1726/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivanshm1726/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivanshm1726/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0386-lexicographical-numbers](https://github.com/shivanshm1726/DSA/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanshm1726/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/shivanshm1726/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Enumeration
@@ -449,4 +450,8 @@
 | [0584-find-customer-referee](https://github.com/shivanshm1726/DSA/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/shivanshm1726/DSA/tree/master/0620-not-boring-movies) |
 | [1683-invalid-tweets](https://github.com/shivanshm1726/DSA/tree/master/1683-invalid-tweets) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/shivanshm1726/DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
